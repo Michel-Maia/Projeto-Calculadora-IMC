@@ -5,7 +5,7 @@
  Desenvolvido para aprendizado durante a aula de Javascript. 30/09/22
 
 
-[ 🔗 Clique aqui para acessar] (https://michel-maia.github.io/Projeto-Calculadora-IMC)
+[ 🔗 Clique aqui para acessar] (https://michel-maia.github.io/Projeto-Calculadora-IMC/)
 
 
 ## 💻 Tecnologias
